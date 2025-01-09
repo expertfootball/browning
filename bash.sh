@@ -1,4 +1,5 @@
 #!/bin/bash
 clear
-echo "Please enter your name"
-read name
+
+sudo apt install lua5.3
+lua script.lua
