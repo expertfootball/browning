@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Run Bash script
-        run: bash ./.github/workflows/bash.sh
+        run: bash bash.sh
