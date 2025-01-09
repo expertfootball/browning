@@ -4,4 +4,6 @@ for i = 1, 10 do
     print(i)
 end
 
-os.exit(55)
+error('ok')
+
+--os.exit(55)
